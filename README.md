@@ -4,8 +4,8 @@ Welcome to the Petals to the Metal competition! In this competition, you’re ch
 
 To improve classification accuracy of the model on the test dataset, the following are explored:
 
-Input image size
-Pretrained model and number of trainable parameters of final model
-Data augmentation
-Regularization techniques
-Use of learning rate schedule
+* Input image size
+* Pretrained model and number of trainable parameters of final model
+* Data augmentation
+* Regularization techniques
+* Use of learning rate schedule
